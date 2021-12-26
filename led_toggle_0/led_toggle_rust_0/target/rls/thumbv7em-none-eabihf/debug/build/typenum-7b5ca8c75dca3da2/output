@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/d33p/dev/BareMetal/baremetal-embedded/led_toggle_0/led_toggle_rust_0/target/rls/thumbv7em-none-eabihf/debug/build/typenum-7b5ca8c75dca3da2/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/d33p/dev/BareMetal/baremetal-embedded/led_toggle_0/led_toggle_rust_0/target/rls/thumbv7em-none-eabihf/debug/build/typenum-7b5ca8c75dca3da2/out/op.rs
