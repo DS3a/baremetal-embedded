@@ -1,0 +1,11 @@
+/home/d33p/dev/BareMetal/baremetal-embedded/led_toggle_0/led_toggle_rust_0/target/rls/debug/deps/cargo_metadata-1392a8e1d9029ee6.rmeta: /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/home/d33p/dev/BareMetal/baremetal-embedded/led_toggle_0/led_toggle_rust_0/target/rls/debug/deps/libcargo_metadata-1392a8e1d9029ee6.rlib: /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/home/d33p/dev/BareMetal/baremetal-embedded/led_toggle_0/led_toggle_rust_0/target/rls/debug/deps/cargo_metadata-1392a8e1d9029ee6.d: /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs /home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs
+
+/home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/lib.rs:
+/home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/dependency.rs:
+/home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/diagnostic.rs:
+/home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/errors.rs:
+/home/d33p/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.13.1/src/messages.rs:
