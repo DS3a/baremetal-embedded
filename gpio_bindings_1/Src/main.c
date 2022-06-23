@@ -1,7 +1,7 @@
 #include "stm32f303xe.h"
 
 #define GPIOAEN 		(1U << 17)
-// to set in RCC
+//  to set in RCC
 #define PIN5 		   (1U << 5)
 #define LED_PIN		 PIN5
 
